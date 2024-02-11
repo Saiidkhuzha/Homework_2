@@ -94,3 +94,4 @@ DVC, или Data Version Control, — это один из многих дост
 [Другие альтернативы](https://habr.com/ru/companies/skillfactory/articles/527510/) 
 
 ## Итог
+Это первая вводная статья по утилите Git. Здесь мы рассмотрели:
